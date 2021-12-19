@@ -1,2 +1,5 @@
 # top01-odin-recipes
-First assignment for The Odin Project - HTML Basics
+The Odin Project
+Project 1 - Recipes
+
+A simple project to demonstrate the ability to use HTML to create a basic website with links and images.
